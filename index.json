@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "title": "Example",
+      "name": "com.kikx.example",
+      "about": "Example App",
+      "category": "Test",
+      "icon": "com.kikx.example.png",
+      "url": "luvbyte/kikx-example-app"
+    }
+  ],
+  "featured": []
+}
