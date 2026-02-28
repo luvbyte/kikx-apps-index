@@ -9,6 +9,14 @@
       "url": "luvbyte/kikx-appstore-app"
     },
     {
+      "title": "Sessions",
+      "name": "com.kikx.sessions",
+      "about": "UI session manager",
+      "category": "Tools",
+      "icon": "com.kikx.sessions.png",
+      "url": "luvbyte/kikx-sessions-app"
+    },
+    {
       "title": "Florix",
       "name": "com.kikx.florix",
       "about": "Script runner",
