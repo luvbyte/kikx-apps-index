@@ -25,12 +25,12 @@
       "url": "luvbyte/kikx-florix-app"
     },
     {
-      "title": "Example",
-      "name": "com.kikx.example",
-      "about": "Example App",
-      "category": "Test",
-      "icon": "com.kikx.example.png",
-      "url": "luvbyte/kikx-example-app"
+      "title": "Files",
+      "name": "com.kikx.files",
+      "about": "Basic file manager",
+      "category": "Tools",
+      "icon": "com.kikx.files.png",
+      "url": "luvbyte/kikx-files-app"
     }
   ],
   "featured": ["com.kikx.appstore"]
