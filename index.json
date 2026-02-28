@@ -9,6 +9,14 @@
       "url": "luvbyte/kikx-appstore-app"
     },
     {
+      "title": "Florix",
+      "name": "com.kikx.florix",
+      "about": "Script runner",
+      "category": "Tools",
+      "icon": "com.kikx.florix.png",
+      "url": "luvbyte/kikx-florix-app"
+    },
+    {
       "title": "Example",
       "name": "com.kikx.example",
       "about": "Example App",
