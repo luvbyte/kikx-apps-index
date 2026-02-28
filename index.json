@@ -1,6 +1,14 @@
 {
   "apps": [
     {
+      "title": "AppStore",
+      "name": "com.kikx.appstore",
+      "about": "AppStore",
+      "category": "Tools",
+      "icon": "com.kikx.appstore.png",
+      "url": "luvbyte/kikx-appstore-app"
+    },
+    {
       "title": "Example",
       "name": "com.kikx.example",
       "about": "Example App",
@@ -9,5 +17,5 @@
       "url": "luvbyte/kikx-example-app"
     }
   ],
-  "featured": []
+  "featured": ["com.kikx.appstore"]
 }
