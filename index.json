@@ -17,6 +17,14 @@
       "url": "luvbyte/kikx-sessions-app"
     },
     {
+      "title": "Files",
+      "name": "com.kikx.files",
+      "about": "Basic file manager",
+      "category": "Tools",
+      "icon": "com.kikx.files.png",
+      "url": "luvbyte/kikx-files-app"
+    },
+    {
       "title": "Florix",
       "name": "com.kikx.florix",
       "about": "Script runner",
@@ -25,12 +33,12 @@
       "url": "luvbyte/kikx-florix-app"
     },
     {
-      "title": "Files",
-      "name": "com.kikx.files",
-      "about": "Basic file manager",
+      "title": "KittyChef",
+      "name": "com.kikx.kittychef",
+      "about": "KittyChef is a fast, lightweight, mobile-optimized data transformation toolkit for Encode, decode, convert, encrypt, and chain multiple operations together using a beautiful recipe pipeline system",
       "category": "Tools",
-      "icon": "com.kikx.files.png",
-      "url": "luvbyte/kikx-files-app"
+      "icon": "com.kikx.kittychef.png",
+      "url": "luvbyte/kittychef"
     }
   ],
   "featured": ["com.kikx.appstore"]
