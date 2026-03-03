@@ -39,6 +39,14 @@
       "category": "Tools",
       "icon": "com.kikx.kittychef.png",
       "url": "luvbyte/kittychef"
+    },
+    {
+      "title": "SpaceChat",
+      "name": "com.kikx.spacechat",
+      "about": "SpaceChat is a real-time collaborative chat app where users can join shared “Spaces”, chat instantly, and watch synchronized YouTube videos together.",
+      "category": "Social",
+      "icon": "com.kikx.spacechat.png",
+      "url": "luvbyte/spacechat"
     }
   ],
   "featured": ["com.kikx.appstore"]
