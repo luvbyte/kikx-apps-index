@@ -47,6 +47,14 @@
       "category": "Social",
       "icon": "com.kikx.spacechat.png",
       "url": "luvbyte/spacechat"
+    },
+    {
+      "title": "Quizzy",
+      "name": "com.kikx.quizzy",
+      "about": "Quizzy quizes app",
+      "category": "Education",
+      "icon": "com.kikx.quizzy.png",
+      "url": "luvbyte/quizzy"
     }
   ],
   "featured": ["com.kikx.appstore"]
