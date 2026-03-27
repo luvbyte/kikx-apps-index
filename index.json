@@ -55,6 +55,14 @@
       "category": "Education",
       "icon": "com.kikx.quizzy.png",
       "url": "luvbyte/quizzy"
+    },
+    {
+      "title": "ScriptX",
+      "name": "com.kikx.scriptx",
+      "about": "JavaScript Vulnerability Scanner",
+      "category": "Tools",
+      "icon": "com.kikx.scriptx.png",
+      "url": "luvbyte/scriptx"
     }
   ],
   "featured": ["com.kikx.appstore"]
