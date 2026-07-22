@@ -17,14 +17,6 @@
       "url": "luvbyte/kikx-sessions-app"
     },
     {
-      "title": "Files",
-      "name": "com.kikx.files",
-      "about": "Basic file manager",
-      "category": "Tools",
-      "icon": "com.kikx.files.png",
-      "url": "luvbyte/kikx-files-app"
-    },
-    {
       "title": "Florix",
       "name": "com.kikx.florix",
       "about": "Script runner",
@@ -33,36 +25,12 @@
       "url": "luvbyte/kikx-florix-app"
     },
     {
-      "title": "KittyChef",
-      "name": "com.kikx.kittychef",
-      "about": "KittyChef is a fast, lightweight, mobile-optimized data transformation toolkit for Encode, decode, convert, encrypt, and chain multiple operations together using a beautiful recipe pipeline system",
+      "title": "Explorer",
+      "name": "com.kikx.explorer",
+      "about": "File manager",
       "category": "Tools",
-      "icon": "com.kikx.kittychef.png",
-      "url": "luvbyte/kittychef"
-    },
-    {
-      "title": "SpaceChat",
-      "name": "com.kikx.spacechat",
-      "about": "SpaceChat is a real-time collaborative chat app where users can join shared “Spaces”, chat instantly, and watch synchronized YouTube videos together.",
-      "category": "Social",
-      "icon": "com.kikx.spacechat.png",
-      "url": "luvbyte/spacechat"
-    },
-    {
-      "title": "Quizzy",
-      "name": "com.kikx.quizzy",
-      "about": "Quizzy quizes app",
-      "category": "Education",
-      "icon": "com.kikx.quizzy.png",
-      "url": "luvbyte/quizzy"
-    },
-    {
-      "title": "ScriptX",
-      "name": "com.kikx.scriptx",
-      "about": "JavaScript Vulnerability Scanner",
-      "category": "Tools",
-      "icon": "com.kikx.scriptx.png",
-      "url": "luvbyte/scriptx"
+      "icon": "com.kikx.explorer.png",
+      "url": "luvbyte/kikx-explorer-app"
     }
   ],
   "featured": ["com.kikx.appstore"]
