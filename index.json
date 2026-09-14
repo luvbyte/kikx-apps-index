@@ -17,6 +17,14 @@
       "url": "luvbyte/kikx-sessions-app"
     },
     {
+      "title": "Explorer",
+      "name": "com.kikx.explorer",
+      "about": "File manager",
+      "category": "Tools",
+      "icon": "com.kikx.explorer.png",
+      "url": "luvbyte/kikx-explorer-app"
+    },
+    {
       "title": "Florix",
       "name": "com.kikx.florix",
       "about": "Script runner",
@@ -25,13 +33,12 @@
       "url": "luvbyte/kikx-florix-app"
     },
     {
-      "title": "Explorer",
-      "name": "com.kikx.explorer",
-      "about": "File manager",
+      "title": "KittyChef",
+      "name": "com.kikx.kittychef",
+      "about": "KittyChef is a fast, lightweight, mobile-optimized data transformation toolkit",
       "category": "Tools",
-      "icon": "com.kikx.explorer.png",
-      "url": "luvbyte/kikx-explorer-app"
+      "icon": "com.kikx.kittychef.png",
+      "url": "luvbyte/kikx-kittychef-app"
     }
-  ],
-  "featured": ["com.kikx.appstore"]
+  ]
 }
