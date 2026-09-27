@@ -33,6 +33,14 @@
       "url": "luvbyte/kikx-florix-app"
     },
     {
+      "title": "NeonSnake",
+      "name": "com.lvbyte.nsnake",
+      "about": "Neon snake",
+      "category": "Games",
+      "icon": "com.lvbyte.nsnake.png",
+      "url": "luvbyte/kikx-nsnake-app"
+    },
+    {
       "title": "KittyChef",
       "name": "com.kikx.kittychef",
       "about": "KittyChef is a fast, lightweight, mobile-optimized data transformation toolkit",
