@@ -41,6 +41,14 @@
       "url": "luvbyte/kikx-nsnake-app"
     },
     {
+      "title": "NesX",
+      "name": "com.lvbyte.nesx",
+      "about": "Nes Emulator",
+      "category": "Games",
+      "icon": "com.lvbyte.nesx.png",
+      "url": "luvbyte/kikx-nesx-app"
+    },
+    {
       "title": "KittyChef",
       "name": "com.kikx.kittychef",
       "about": "KittyChef is a fast, lightweight, mobile-optimized data transformation toolkit",
