@@ -49,6 +49,14 @@
       "url": "luvbyte/kikx-nesx-app"
     },
     {
+      "title": "WaifuPics",
+      "name": "com.lvbyte.wpics",
+      "about": "Waifu pics",
+      "category": "Gallery",
+      "icon": "com.lvbyte.wpics.png",
+      "url": "luvbyte/kikx-waifupics-app"
+    },
+    {
       "title": "KittyChef",
       "name": "com.kikx.kittychef",
       "about": "KittyChef is a fast, lightweight, mobile-optimized data transformation toolkit",
